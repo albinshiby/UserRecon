@@ -1,7 +1,7 @@
 #!/bin/bash
 # UserRecon v1.1
-# Author: ╰☜cyber kallan☞╯
-# https://github.com/cyberkallan/userrecon
+# Author: ╰☜Albin Shiby☞╯
+# https://github.com/albinshiby/userrecon
 # Give me the credits if you use any part of this code, read the License.
 
 trap 'printf "\n";partial;exit 1' 2
@@ -17,7 +17,7 @@ printf "\e[1;77m | | | |___  ___ _ __|  _ \ ___  ___ ___  _ __  \e[0m\e[1;92m// 
 printf "\e[1;77m | | | / __|/ _ \ '__| |_) / _ \/ __/ _ \| '_ \ \e[0m\e[1;92m|\__\    /__/| \e[0m\n"
 printf "\e[1;77m | |_| \__ \  __/ |  |  _ <  __/ (_| (_) | | | | \e[0m\e[1;92m\    ||    / \e[0m\n"
 printf "\e[1;77m  \___/|___/\___|_|  |_| \_\___|\___\___/|_| |_|  \e[0m\e[1;92m\        / \e[0m\n"
-printf "                   \e[1;92mv1.0, recoded:cyber kallan(lc)  \e[0m   \e[1;92m\  __  / \e[0m\n"
+printf "                   \e[1;92mv1.0, recoded:Albin Shiby(lc)  \e[0m   \e[1;92m\  __  / \e[0m\n"
 printf "                                                    \e[1;92m'.__.' \e[0m\n"
                                                 
 
