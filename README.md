@@ -9,7 +9,7 @@ This is useful if you are running an investigation to determine the usage of the
 ## Installation
 
 ``` 
-git clone https://github.com/cyberkallan/userrecon
+git clone https://github.com/albinshiby/userrecon
 cd userrecon
 bash userrcon.sh
 
