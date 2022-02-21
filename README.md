@@ -1,6 +1,6 @@
 # UserRecon v1.0
-# Author: Albin Shiby
-# https://github.com/albinshiby/userrecon
+## Author: Albin Shiby
+### https://github.com/albinshiby/userrecon
 
 
 Find usernames across over 75 social networks
